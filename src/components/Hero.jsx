@@ -2,7 +2,7 @@ import { Calendar, CircleDot } from "lucide-react";
 
 const Hero = () => {
   return (
-    <div className="text-center bg-radial from-purple-950 to-black pt-20 pb-20">
+    <div className="text-center bg-radial from-purple-950 to-black pt-40 pb-20">
       <div className="border border-[#262527] bg-black rounded-full flex items-center justify-center px-3 py-2 gap-2 mx-auto max-w-max">
         <span className="border rounded-full px-1.5 py-0.5 bg-[#9855ff] text-[10px] font-bold">
           NEW
