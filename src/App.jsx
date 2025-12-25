@@ -6,6 +6,7 @@ import Clients from "./components/Clients";
 import Elevate from "./components/Elevate";
 import Pricing from "./components/Pricing";
 import Waitlist from "./components/Waitlist";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
       <Elevate />
       <Pricing />
       <Waitlist />
+      <Footer />
     </section>
   );
 };
